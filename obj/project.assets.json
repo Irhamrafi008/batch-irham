@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BOOTCAMP\\day1\\day02\\day02.csproj",
-      "projectName": "day02",
-      "projectPath": "D:\\BOOTCAMP\\day1\\day02\\day02.csproj",
+      "projectUniqueName": "D:\\BOOTCAMP\\day1\\day02\\Day2.csproj",
+      "projectName": "Day2",
+      "projectPath": "D:\\BOOTCAMP\\day1\\day02\\Day2.csproj",
       "packagesPath": "C:\\Users\\irham\\.nuget\\packages\\",
       "outputPath": "D:\\BOOTCAMP\\day1\\day02\\obj\\",
       "projectStyle": "PackageReference",
